@@ -1,5 +1,5 @@
 ### Libraries
-- React [https://reactjs.org]
+- [React](https://reactjs.org)
 
 
 ### JS Frameworks
